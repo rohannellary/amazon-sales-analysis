@@ -63,7 +63,7 @@ sns.set_theme(style='whitegrid', font_scale=1.05)
 
 def save(name):
     plt.tight_layout()
-    plt.savefig(f"{name}.png", dpi=150, bbox_inches='tight')
+    plt.savefig(f"figures/{name}.png", dpi=150, bbox_inches='tight')
     plt.close()
     print(f"  Saved → {name}.png")
 
