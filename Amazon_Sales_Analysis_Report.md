@@ -222,4 +222,3 @@ The Amazon India sales data reveals a business with strong fundamentals — ₹7
 The Premium customer segment (₹601–₹1,000) is the most valuable group and should anchor retention and marketing strategies. Geographic expansion to Tier-2 cities and a B2B program offer medium-term growth levers requiring minimal incremental investment.
 
 ---
-*Report prepared as part of InnoByte Services Data Analytics Internship — Project ID: 78G0OL*
